@@ -1,16 +1,16 @@
-## Hi there 👋
+Full-Stack Web Developer (Node.js / JavaScript)
 
-<!--
-**3Radiance/3Radiance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! Full-Stack Developer specializing in custom web applications, backend services, and workflow automation. I bridge the gap between clean UI and powerful server-side logic.
+🛠️ Tech Stack & Skills:
 
-Here are some ideas to get you started:
+    Backend & Runtime: Node.js, JavaScript, TypeScript, Bun, Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Frontend: HTML5, CSS3, JavaScript (ES6+), Responsive & Custom Layouts
+
+    APIs & Integrations: Custom API development, third-party service integrations, payment gateways, and backend automation
+
+    Automation: Advanced custom Telegram bots built on Node.js, application logic architecture
+
+    DevOps & SysAdmin: Linux administration (Debian, Linux Mint), VPS configuration, network management, and system auditing
+
+I write clean, predictable code and build standalone solutions that run smoothly. Always open to challenging projects and interesting collaborations!
