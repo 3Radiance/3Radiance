@@ -1,6 +1,6 @@
 Full-Stack Web Developer (Node.js / JavaScript)
 
-Hi! Full-Stack Developer specializing in custom web applications, backend services, and workflow automation. I bridge the gap between clean UI and powerful server-side logic.
+Hi! I'm Full-Stack Developer specializing in custom web applications, backend services, and workflow automation. I bridge the gap between clean UI and powerful server-side logic.
 
 🛠️ Tech Stack & Skills
 
