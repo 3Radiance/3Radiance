@@ -1,4 +1,6 @@
-<img width="576" height="518" alt="tenor" src="https://github.com/user-attachments/assets/b7556ead-8a0e-44a2-b20f-2698d9b5a0d1" />
+<p align="center">
+  <img width="300" alt="tenor" src="https://github.com/user-attachments/assets/b7556ead-8a0e-44a2-b20f-2698d9b5a0d1" />
+</p>
 
 # 👋 Привет, я 3Radiance
 
