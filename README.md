@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/bZun6.gif" width="100%" alt="Header Banner" />
+  <img src="https://media.tenor.com/4q-N7R3m4y8AAAAC/pudge-%D0%BF%D1%83%D0%B4%D0%B6.gif" width="300" alt="Pudge" />
 </p>
 # 👋 Привет, я 3Radiance
 
