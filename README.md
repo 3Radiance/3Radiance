@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="blob:https://tenor.com/af6c32ad-e57c-42c2-841d-ec11b89abbbc" width="300" alt="Pudge" />
-</p>
+<img width="576" height="518" alt="tenor" src="https://github.com/user-attachments/assets/b7556ead-8a0e-44a2-b20f-2698d9b5a0d1" />
+
 # 👋 Привет, я 3Radiance
 
 Системный разработчик и сетевой инженер. Занимаюсь низкоуровневой разработкой, кастомизацией ядер Linux и проектированием устойчивой сетевой инфраструктуры.
