@@ -10,7 +10,7 @@
 
 ###  Tech Stack & Core Competencies
 
-* **Languages & Core:** Rust, C/C++, Bash, Nix
+* **Languages & Core:** Rust, C++, Bash, Nix
 * **Networking & Protocols:** Systems Engineering, Proxy Systems (Xray, VLESS, xHTTP), Traffic Obfuscation & DPI Bypassing (Zapret, nfqws), Nginx, Netfilter / iptables / nftables
 * **OS & Kernel Engineering:** Android Kernel Compilation (MTK/ARM), Custom Linux Distributions (NixOS, Declarative Configs), Systemd Units
 * **Tooling & Automation:** Git, Linux Sysadmin, Docker, CI/CD, Embedded & Microcontrollers
