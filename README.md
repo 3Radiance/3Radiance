@@ -2,28 +2,23 @@
   <img width="500" alt="tenor" src="https://github.com/user-attachments/assets/b7556ead-8a0e-44a2-b20f-2698d9b5a0d1" />
 </p>
 
-# 👋 Привет, я 3Radiance
 
-Системный разработчик и сетевой инженер. Занимаюсь низкоуровневой разработкой, кастомизацией ядер Linux и проектированием устойчивой сетевой инфраструктуры.
-
----
-
-###  Tech Stack & Core Competencies
-
-* **Languages & Core:** Rust, C++, Bash, Nix
-* **Networking & Protocols:** Systems Engineering, Proxy Systems (Xray, VLESS, xHTTP), Traffic Obfuscation & DPI Bypassing (Zapret, nfqws), Nginx, Netfilter / iptables / nftables
-* **OS & Kernel Engineering:** Android Kernel Compilation (MTK/ARM), Custom Linux Distributions (NixOS, Declarative Configs), Systemd Units
-* **Tooling & Automation:** Git, Linux Sysadmin, Docker, CI/CD, Embedded & Microcontrollers
+Низкоуровневая разработка, сетевые кишки и кастомизация Linux/Android. Зарываюсь в то, как всё устроено под капотом.
 
 ---
 
-###  Projects & Focus Areas
+### Stack & Tools
 
-* 🦀 **Rust Networking:** Разработка легких системных утилит.
-* 🛡 **DPI Circumvention:** Проектирование и настройка сложных маршрутов для обхода глубокого анализа пакетов.
-* 🐧 **Declarative Systems:** Полностью декларативное управление рабочей средой и сервисами на базе NixOS.
-* 📱 **Kernel Modding:** Сборка и патчинг ядер Linux под мобильные и эмбеддед-платформы.
+* **Languages:** Rust, C++, bash
+* **Networking & Security:** TCP/IP, Custom Proxies, Traffic Obfuscation & DPI Bypass
+* **OS & Low-Level:** Android (KernelSU, Magisk), Linux Kernel 
 
 ---
 
-> *"If it runs in user space and isn't fast enough, push it into the kernel."*
+### Projects & Focus
+
+* **Rust & Systems:** Разработка легких сетевых утилит и кастомных прокси-серверов.
+* **DPI Circumvention:** Проектирование систем перехвата и маршрутизации трафика на системном уровне.
+* **Android Internals:** Скрипты инициализации, сборка ядер и низкоуровневая отладка.
+
+---
